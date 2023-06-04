@@ -1,2 +1,2 @@
-This is test js file
+This is test javaScript file
 
