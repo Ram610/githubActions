@@ -1,2 +1,2 @@
-This is test js file modified here
+console.log('This is test js file modified here')
 
